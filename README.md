@@ -1,0 +1,2 @@
+# Aternos-24-7-bot
+bot
